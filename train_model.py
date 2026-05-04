@@ -51,4 +51,4 @@ print(f"   Loss final no teste:     {test_loss:.4f}")
 
 
 model.save("model.h5")
-print("\n Modelo salvo!")
+print("\n Modelo salvo em: modelo.h5!")
