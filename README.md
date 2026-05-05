@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d076ce24-634a-42b8-9e2a-ffa88816a7a9" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d076ce24-634a-42b8-9e2a-ffa88816a7a9" width="45%" />
+</p>
+
 # Classificador de Dígitos Manuscritos com CNN + Edge AI
  
 > Projeto desenvolvido para o processo seletivo **Intensivo Maker | AI** – Etapa Prática de Machine Learning e Edge AI.
@@ -154,3 +159,8 @@ O maior aprendizado foi entender que *Edge AI não é sobre ter o modelo mais pr
 જ **Limitações:**
  
 O modelo foi treinado e avaliado apenas no MNIST, que é um conjunto controlado. Em cenários reais de dígitos manuscritos com variações de iluminação, inclinação e ruído de fundo, seria necessário aplicar técnicas de data augmentation (`ImageDataGenerator`) para melhorar a generalização.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d076ce24-634a-42b8-9e2a-ffa88816a7a9" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d076ce24-634a-42b8-9e2a-ffa88816a7a9" width="45%" />
+</p>
